@@ -1,5 +1,4 @@
 # Estok_Sys
-# Estoque
 
 Controle de estoque
 
@@ -13,7 +12,7 @@ Controle de estoque
 * Rode as migrações.
 
 ```bash
-git clone https://github.com/GabrielCfl/ESTOQUE-MASTER.git
+git clone https://github.com/GabrielCfl/Estok_Sys.git
 cd estoque
 python3 -m venv .venv
 source .venv/bin/activate
