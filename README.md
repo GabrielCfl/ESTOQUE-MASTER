@@ -1,4 +1,4 @@
-# ESTOQUE-MASTER
+# Estok_Sys
 # Estoque
 
 Controle de estoque
